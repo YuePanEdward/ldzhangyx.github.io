@@ -13,7 +13,7 @@ $(document).ready(function () {
       $('.content-wrapper').addClass('animated slideInRight')
     } else {
       $('.panel-cover').css('max-width', currentWidth)
-      $('.panel-cover').animate({'max-width': '530px', 'width': '100%'}, 400, swing = 'swing', function () {})
+      $('.panel-cover').animate({'width': '100%'}, 400, swing = 'swing', function () {})
     }
   })
 
