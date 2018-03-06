@@ -10,10 +10,10 @@ $(document).ready(function () {
     currentWidth = $('.panel-cover').width()
     if (currentWidth < 960) {
       $('.panel-cover').addClass('panel-cover--collapsed')
-      $('.content-wrapper').addClass('animated slideInRight')
+      //$('.content-wrapper').addClass('animated slideInRight')
     } else {
-      $('.panel-cover').css('max-width', currentWidth)
-      $('.panel-cover').animate({'width': '100%'}, 400, swing = 'swing', function () {})
+      //$('.panel-cover').css('max-width', currentWidth)
+      //$('.panel-cover').animate({'width': '100%'}, 400, swing = 'swing', function () {})
     }
   })
 
