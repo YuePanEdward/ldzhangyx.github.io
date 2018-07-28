@@ -1,14 +1,14 @@
 # Site settings
-title: Yixiao Zhang
-description: 'Ah! Je voudrais voler comme un oiseau d''aile!'
-url: 'https://ldzhangyx.github.io/'
+title: Yue Pan
+description: 'Welcome, nice to meet you'
+url: 'https://yuepanedward.github.io/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Yixiao Zhang'
-  email: ldzhangyx@outlook.com
+  name: 'Yue Pan'
+  email: panyue@whu.edu.cn
   #twitter_username: joshgerdes
   #facebook_username: joshgerdes
   #github_username:  ldzhangyx
